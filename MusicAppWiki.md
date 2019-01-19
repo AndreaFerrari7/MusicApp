@@ -6,4 +6,4 @@
 
 ## Utilizzo
 
-### Per ricercare la canzone desiderata è sufficente scrivere il titolo nella barra di ricerca in alto, si può accedere all'account in alto a destra, e alla playlist e l'equalizzatore a destra.
+### Per ricercare la canzone desiderata è sufficente scrivere il titolo nella barra di ricerca in alto, si può accedere all'account in alto a destra, e alla playlist e l'equalizzatore a sinistra.
